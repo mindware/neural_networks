@@ -194,7 +194,3 @@ def predict_random(rows):
             plt.scatter(l,w, c='r')        
             
 predict_random(20)
-
-# In[13]:
-print(6.771092766813517e-42 < 0.5)
-
