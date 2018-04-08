@@ -1,6 +1,6 @@
 # Neural Network
 
-A simple neural network written in python to show how machine learning can help in automated classification. This is a simple Feed Forward Neural trained using Back Propagation, to classify a dummy dataset of flowers. Note: this code was originally written in a jupyter notebook. This is part of a series of quick programming excercises to show my son the basics of AI and warm up my machine learning skills. 
+A simple neural network written in python to show how machine learning can help in automated classification. This is a simple Feed Forward Neural Network trained using Back Propagation, to classify a dummy dataset of flowers. Note: this code was originally written in a jupyter notebook. This is part of a series of quick programming excercises to show my son the basics of AI and warm up my machine learning skills. 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
